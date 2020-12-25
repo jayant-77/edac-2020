@@ -1,1 +1,3 @@
 welcome to edac batch
+
+git is used in company
